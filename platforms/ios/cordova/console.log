@@ -1,0 +1,298 @@
+2014-06-21 02:18:57.920 HelloWorld[4808:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-21 02:18:57.938 HelloWorld[4808:70b] Unlimited access to network resources
+2014-06-21 02:18:57.946 HelloWorld[4808:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-21 02:18:58.368 HelloWorld[4808:70b] Resetting plugins due to page load.
+2014-06-21 02:18:58.453 HelloWorld[4808:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 02:26:44.419 HelloWorld[5424:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-21 02:26:44.480 HelloWorld[5424:70b] Unlimited access to network resources
+2014-06-21 02:26:44.484 HelloWorld[5424:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-21 02:26:44.881 HelloWorld[5424:70b] Resetting plugins due to page load.
+2014-06-21 02:26:44.960 HelloWorld[5424:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 02:27:14.211 HelloWorld[5424:70b] Resetting plugins due to page load.
+2014-06-21 02:27:14.279 HelloWorld[5424:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 02:27:36.209 HelloWorld[5424:70b] Resetting plugins due to page load.
+2014-06-21 02:27:36.241 HelloWorld[5424:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 02:27:37.796 HelloWorld[5424:70b] Resetting plugins due to page load.
+2014-06-21 02:27:37.828 HelloWorld[5424:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 02:27:52.416 HelloWorld[5424:70b] Resetting plugins due to page load.
+2014-06-21 02:27:52.448 HelloWorld[5424:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 02:28:07.855 HelloWorld[5762:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-21 02:28:07.861 HelloWorld[5762:70b] Unlimited access to network resources
+2014-06-21 02:28:07.863 HelloWorld[5762:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-21 02:28:07.984 HelloWorld[5762:70b] Resetting plugins due to page load.
+2014-06-21 02:28:08.020 HelloWorld[5762:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 02:28:28.995 HelloWorld[5762:70b] Resetting plugins due to page load.
+2014-06-21 02:28:29.029 HelloWorld[5762:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 02:30:31.615 HelloWorld[6417:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-21 02:30:31.626 HelloWorld[6417:70b] Unlimited access to network resources
+2014-06-21 02:30:31.630 HelloWorld[6417:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-21 02:30:31.773 HelloWorld[6417:70b] Resetting plugins due to page load.
+2014-06-21 02:30:31.823 HelloWorld[6417:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 02:30:31.843 HelloWorld[6417:70b] [IBeacon Plugin] pluginInitialize()
+2014-06-21 02:30:31.848 HelloWorld[6417:70b] [IBeacon Plugin] startMonitoringForRegion() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 02:30:31.848 HelloWorld[6417:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xa37e270> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 02:30:31.848 HelloWorld[6417:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xa37e270> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 02:30:31.849 HelloWorld[6417:70b] [IBeacon Plugin] started monitoring successfully.
+2014-06-21 02:30:31.849 HelloWorld[6417:70b] [IBeacon Plugin] startRangingBeaconsInRegion() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 02:30:31.849 HelloWorld[6417:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xa2dcd40> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 02:30:31.850 HelloWorld[6417:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xa2dcd40> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 02:30:31.850 HelloWorld[6417:70b] [IBeacon Plugin] Started ranging successfully.
+2014-06-21 02:30:31.850 HelloWorld[6417:70b] [IBeacon Plugin] peripheralManagerDidUpdateState() state: CBPeripheralManagerStateUnsupported
+2014-06-21 02:30:57.879 HelloWorld[6417:70b] Resetting plugins due to page load.
+2014-06-21 02:30:57.914 HelloWorld[6417:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 02:30:57.914 HelloWorld[6417:70b] [IBeacon Plugin] pageDidLoad()
+2014-06-21 02:30:57.937 HelloWorld[6417:70b] [IBeacon Plugin] startMonitoringForRegion() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 02:30:57.938 HelloWorld[6417:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xb995140> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 02:30:57.938 HelloWorld[6417:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xb995140> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 02:30:57.938 HelloWorld[6417:70b] [IBeacon Plugin] started monitoring successfully.
+2014-06-21 02:30:57.939 HelloWorld[6417:70b] [IBeacon Plugin] startRangingBeaconsInRegion() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 02:30:57.939 HelloWorld[6417:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xbb82a80> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 02:30:57.939 HelloWorld[6417:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xbb82a80> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 02:30:57.939 HelloWorld[6417:70b] [IBeacon Plugin] Started ranging successfully.
+2014-06-21 14:26:14.455 HelloWorld[6417:70b] Resetting plugins due to page load.
+2014-06-21 14:26:14.752 HelloWorld[6417:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 14:26:14.752 HelloWorld[6417:70b] [IBeacon Plugin] pageDidLoad()
+2014-06-21 14:26:14.819 HelloWorld[6417:70b] [IBeacon Plugin] startMonitoringForRegion() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 14:26:14.822 HelloWorld[6417:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xe76cf30> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 14:26:14.830 HelloWorld[6417:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xe76cf30> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 14:26:14.836 HelloWorld[6417:70b] [IBeacon Plugin] started monitoring successfully.
+2014-06-21 14:26:14.837 HelloWorld[6417:70b] THREAD WARNING: ['IBeacon'] took '21.431152' ms. Plugin should use a background thread.
+2014-06-21 14:26:14.844 HelloWorld[6417:70b] [IBeacon Plugin] startRangingBeaconsInRegion() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 14:26:14.845 HelloWorld[6417:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xe76dbf0> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 14:26:14.845 HelloWorld[6417:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xe76dbf0> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 14:26:14.845 HelloWorld[6417:70b] [IBeacon Plugin] Started ranging successfully.
+2014-06-21 14:32:58.469 HelloWorld[6417:70b] Resetting plugins due to page load.
+2014-06-21 14:32:58.834 HelloWorld[6417:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 14:32:58.834 HelloWorld[6417:70b] [IBeacon Plugin] pageDidLoad()
+2014-06-21 14:32:58.914 HelloWorld[6417:70b] [IBeacon Plugin] startMonitoringForRegion() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 14:32:58.917 HelloWorld[6417:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xb871a40> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 14:32:58.920 HelloWorld[6417:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xb871a40> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 14:32:58.921 HelloWorld[6417:70b] [IBeacon Plugin] started monitoring successfully.
+2014-06-21 14:32:58.921 HelloWorld[6417:70b] [IBeacon Plugin] startRangingBeaconsInRegion() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 14:32:58.922 HelloWorld[6417:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xe7714e0> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 14:32:58.922 HelloWorld[6417:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xe7714e0> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 14:32:58.923 HelloWorld[6417:70b] [IBeacon Plugin] Started ranging successfully.
+2014-06-21 14:42:05.698 HelloWorld[13268:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-21 14:42:05.735 HelloWorld[13268:70b] Unlimited access to network resources
+2014-06-21 14:42:05.741 HelloWorld[13268:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-21 14:42:05.978 HelloWorld[13268:70b] Resetting plugins due to page load.
+2014-06-21 14:42:06.153 HelloWorld[13268:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 14:42:06.182 HelloWorld[13268:70b] [IBeacon Plugin] pluginInitialize()
+2014-06-21 14:42:06.191 HelloWorld[13268:70b] [IBeacon Plugin] startAdvertising() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 14:42:06.191 HelloWorld[13268:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xa7819c0> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 14:42:06.191 HelloWorld[13268:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xa7819c0> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 14:42:06.192 HelloWorld[13268:70b] [IBeacon Plugin] Default measuredPower will be used.
+2014-06-21 14:42:06.192 HelloWorld[13268:70b] [IBeacon Plugin] CBPeripheralManagerStateUnknown
+2014-06-21 14:42:06.192 HelloWorld[13268:70b] [IBeacon Plugin] peripheralManagerDidUpdateState() state: CBPeripheralManagerStateUnsupported
+2014-06-21 14:42:32.762 HelloWorld[13590:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-21 14:42:32.770 HelloWorld[13590:70b] Unlimited access to network resources
+2014-06-21 14:42:32.773 HelloWorld[13590:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-21 14:42:33.255 HelloWorld[13590:70b] Resetting plugins due to page load.
+2014-06-21 14:42:33.416 HelloWorld[13590:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 14:42:33.461 HelloWorld[13590:70b] [IBeacon Plugin] pluginInitialize()
+2014-06-21 14:42:33.464 HelloWorld[13590:70b] [IBeacon Plugin] startAdvertising() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 14:42:33.464 HelloWorld[13590:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xa61a280> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 14:42:33.465 HelloWorld[13590:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xa61a280> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 14:42:33.465 HelloWorld[13590:70b] [IBeacon Plugin] Default measuredPower will be used.
+2014-06-21 14:42:33.465 HelloWorld[13590:70b] [IBeacon Plugin] CBPeripheralManagerStateUnknown
+2014-06-21 14:42:33.466 HelloWorld[13590:70b] [IBeacon Plugin] peripheralManagerDidUpdateState() state: CBPeripheralManagerStateUnsupported
+2014-06-21 14:43:22.392 HelloWorld[13590:70b] Resetting plugins due to page load.
+2014-06-21 14:43:22.460 HelloWorld[13590:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 14:43:22.461 HelloWorld[13590:70b] [IBeacon Plugin] pageDidLoad()
+2014-06-21 14:43:22.481 HelloWorld[13590:70b] [IBeacon Plugin] startAdvertising() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 14:43:22.481 HelloWorld[13590:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xa32d0e0> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 14:43:22.481 HelloWorld[13590:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xa32d0e0> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 14:43:22.481 HelloWorld[13590:70b] [IBeacon Plugin] Default measuredPower will be used.
+2014-06-21 14:43:22.482 HelloWorld[13590:70b] [IBeacon Plugin] CBPeripheralManagerStateUnsupported
+2014-06-21 14:44:54.390 HelloWorld[13965:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-21 14:44:54.395 HelloWorld[13965:70b] Unlimited access to network resources
+2014-06-21 14:44:54.398 HelloWorld[13965:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-21 14:44:54.469 HelloWorld[13965:70b] Resetting plugins due to page load.
+2014-06-21 14:44:54.583 HelloWorld[13965:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 14:44:54.594 HelloWorld[13965:70b] [IBeacon Plugin] pluginInitialize()
+2014-06-21 14:44:54.598 HelloWorld[13965:70b] [IBeacon Plugin] startAdvertising() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 14:44:54.598 HelloWorld[13965:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xa26d0a0> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 14:44:54.598 HelloWorld[13965:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xa26d0a0> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 14:44:54.598 HelloWorld[13965:70b] [IBeacon Plugin] Default measuredPower will be used.
+2014-06-21 14:44:54.599 HelloWorld[13965:70b] [IBeacon Plugin] CBPeripheralManagerStateUnknown
+2014-06-21 14:44:54.599 HelloWorld[13965:70b] [IBeacon Plugin] peripheralManagerDidUpdateState() state: CBPeripheralManagerStateUnsupported
+2014-06-21 14:45:45.246 HelloWorld[14298:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-21 14:45:45.253 HelloWorld[14298:70b] Unlimited access to network resources
+2014-06-21 14:45:45.256 HelloWorld[14298:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-21 14:45:45.360 HelloWorld[14298:70b] Resetting plugins due to page load.
+2014-06-21 14:45:45.483 HelloWorld[14298:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 14:45:45.515 HelloWorld[14298:70b] [IBeacon Plugin] pluginInitialize()
+2014-06-21 14:45:45.518 HelloWorld[14298:70b] [IBeacon Plugin] startAdvertising() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 14:45:45.519 HelloWorld[14298:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xa586d50> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 14:45:45.519 HelloWorld[14298:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xa586d50> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 14:45:45.519 HelloWorld[14298:70b] [IBeacon Plugin] Default measuredPower will be used.
+2014-06-21 14:45:45.519 HelloWorld[14298:70b] [IBeacon Plugin] CBPeripheralManagerStateUnknown
+2014-06-21 14:45:45.520 HelloWorld[14298:70b] [IBeacon Plugin] peripheralManagerDidUpdateState() state: CBPeripheralManagerStateUnsupported
+2014-06-21 14:46:35.776 HelloWorld[14298:70b] Resetting plugins due to page load.
+2014-06-21 14:46:35.845 HelloWorld[14298:70b] Finished load of: file:///Users/Tim/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A3946563-5E5E-4492-B577-FB930AE98C53/HelloWorld.app/www/index.html
+2014-06-21 14:46:35.845 HelloWorld[14298:70b] [IBeacon Plugin] pageDidLoad()
+2014-06-21 14:46:35.864 HelloWorld[14298:70b] [IBeacon Plugin] startAdvertising() (
+        {
+        identifier = beaconAtTheMacBooks;
+        major = 1111;
+        minor = 2222;
+        notifyEntryStateOnDisplay = 1;
+        uuid = "9C3B7561-1B5E-4B80-B7E9-31183E73B0FB";
+    }
+)
+2014-06-21 14:46:35.865 HelloWorld[14298:70b] [IBeacon Plugin] Creating Beacon uuid: <__NSConcreteUUID 0xa363090> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major: 1111, minor: 2222, identifier: beaconAtTheMacBooks
+2014-06-21 14:46:35.865 HelloWorld[14298:70b] [IBeacon Plugin] Parsing CLBeaconRegion OK: CLBeaconRegion (identifier:'beaconAtTheMacBooks', uuid:<__NSConcreteUUID 0xa363090> 9C3B7561-1B5E-4B80-B7E9-31183E73B0FB, major:1111, minor:2222)
+2014-06-21 14:46:35.865 HelloWorld[14298:70b] [IBeacon Plugin] Default measuredPower will be used.
+2014-06-21 14:46:35.865 HelloWorld[14298:70b] [IBeacon Plugin] CBPeripheralManagerStateUnsupported
